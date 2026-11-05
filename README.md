@@ -92,3 +92,7 @@ A Queue class template using a circular array with:
 - **Circular Array**: Efficient reuse of array space
 - **O(1) Operations**: All operations take constant time
 - **Error Handling**: Proper overflow and underflow exceptions
+
+## Support
+
+Need help? Send a screenshot and description of your problem to badreotm27@@gmail.com for help.
