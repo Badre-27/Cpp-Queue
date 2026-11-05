@@ -1,0 +1,17 @@
+# Compiled executable
+queue
+
+# Build artifacts
+build/
+*.o
+*.out
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
